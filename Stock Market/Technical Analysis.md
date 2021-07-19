@@ -21,9 +21,12 @@
 * **Support Levels:** Support is a price level where a downtrend can be expected to pause due to a concentration of demand or buying interest.
 * **Resistance Levels:** Resistance is a price level where a uptrend can be expected to pause due to a concentration of demand or selling interest.
 * **Candlestick Patterns:** 
-    * Bullish Engulfing: When previous day's bearish candlestick is completely engulfed by next days bullish candlestick. 
-        * Powerful when formed during bear phase. 
-        * Indecisive.
-        * More likely to be the signal reversals when they are preceded by four or more bearish candlesticks.
-        * ![bullishEngulfing](https://github.com/vital987/Notes/raw/master/Stock%20Market/assets/bullishEngulfing.png)
-    * Morning Star: 
+    * Reversal Patterns: 
+        * [Bullish Engulfing]x[Bearish Engulfing]: 
+            * ![bullishengulfingxbearishengulfing](https://github.com/vital987/Notes/raw/master/Stock%20Market/assets/bullishengulfingxbearishengulfing.png)
+        * [Morning Star]x[Evening Star]:
+            * ![morningStar](https://github.com/vital987/Notes/raw/master/Stock%20Market/assets/morningxevening.png)
+        * [Hammer]x[Hanging Man]: 
+            * ![hammerxhangingman](https://github.com/vital987/Notes/raw/master/Stock%20Market/assets/hammerxhangingman.png)
+        * [Inverted Hammer]x[Shooting Star]:
+            * ![invertedhammerxshootingstar](https://github.com/vital987/Notes/raw/master/Stock%20Market/assets/invertedhammerxshootingstar.png)
