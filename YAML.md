@@ -66,7 +66,7 @@ name: &name "Mike"  # define; anchor name doesn't have to be same as key
 id: *name           # access; if value of key 'name' changed, this changes automatically
 ```
 
-## Key-Value Pair
+## KEY-VALUE PAIR
 
 ```yaml
 base: &base
